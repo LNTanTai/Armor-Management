@@ -1,0 +1,8 @@
+A0001,pro,Tai dep trai,ahihi,10/01/0020,250
+A0002,vip,Tai pro,lab001,10/02/0020,1000
+A0003,normal,Tan Tai,hi,10/03/0020,589
+A0007,vip,Tai vip,fpt,10/07/2020,20
+A0005,vip,dep tra,hihu,10/05/0020,879
+A0009,pro,ok ko,ok,17/10/2020,654
+A0006,pro,Def,fpt,10/07/2020,589
+A0008,norma,ngon nge,fe,16/10/2020,34
